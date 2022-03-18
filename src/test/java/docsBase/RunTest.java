@@ -1,7 +1,3 @@
-// PRUEBA DE MASTER A MAIN
-
-// A VER SI SIRVE, PRUEBA DE MASTER A CORRECT
-
 package docsBase;
 
 import java.io.File;
